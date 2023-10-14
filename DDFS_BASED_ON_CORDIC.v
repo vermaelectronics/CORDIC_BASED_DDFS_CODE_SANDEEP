@@ -1,42 +1,21 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 22.07.2023 16:16:38
-// Design Name: 
-// Module Name: DDFS_BASED_ON_CORDIC
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Dept. of ECE, NIT Warangal
+// Engineer: SANDEEP KUMAR VERMA
 // 
 // Create Date: 22.07.2023 09:44:08
-// Design Name: 
+// Design Name: Verilog
 // Module Name: DDFS_BASED_ON_CORDIC
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
+// Project Name: Pipelined CORDIC Architecture Based DDFS Design and Implementation
+// Target Devices: Zynq-7000 FPGA (XC7Z020-CLG484-1)
+// Tool Versions: Xilinx-Vivado v.2022.2
+// Description: Original Dubugged and Verified Code 
 // 
-// Dependencies: 
+// Dependencies: ©vermaelectronics
 // 
-// Revision:
+// Revision: 
 // Revision 0.01 - File Created
-// Additional Comments:
+// Additional Comments: Ask Before Use.
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
