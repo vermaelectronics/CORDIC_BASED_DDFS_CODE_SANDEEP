@@ -11,7 +11,7 @@
 // Tool Versions: Xilinx-Vivado v.2022.2
 // Description: Original Dubugged and Verified Code 
 // 
-// Dependencies: © vermaelectronics
+// Dependencies: ©vermaelectronics
 // 
 // Revision: 
 // Revision 0.01 - File Created
